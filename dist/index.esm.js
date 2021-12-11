@@ -2579,7 +2579,7 @@ var BuySbear = function (_a) {
    
     return (React.createElement(Button, { size: "sm",marginRight:"10px", onClick: function () {
              window.location.href = "https://exchange.pancakeswap.finance/";
-        } }, "Buy COINE"));
+        } }, "Buy CHEESE"));
 };
 
 var Icon$19 = function (props) {
