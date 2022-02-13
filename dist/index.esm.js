@@ -2048,11 +2048,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.pancakeswap.finance",
+                href: "/",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.pancakeswap.finance/#/pool",
+                href: "/",
             },
         ],
     },
@@ -2064,17 +2064,17 @@ var links = [
     {
         label: "Pools",
         icon: "PoolIcon",
-        href: "/syrup",
+        href: "/",
     },
     {
         label: "Lottery",
         icon: "TicketIcon",
-        href: "/lottery",
+        href: "/",
     },
     {
         label: "NFT",
         icon: "NftIcon",
-        href: "/nft",
+        href: "/",
     },
     {
         label: "Profile & Teams",
@@ -2097,19 +2097,19 @@ var links = [
         items: [
             {
                 label: "Overview",
-                href: "https://pancakeswap.info",
+                href: "/",
             },
             {
                 label: "Tokens",
-                href: "https://pancakeswap.info/tokens",
+                href: "/",
             },
             {
                 label: "Pairs",
-                href: "https://pancakeswap.info/pairs",
+                href: "/",
             },
             {
                 label: "Accounts",
-                href: "https://pancakeswap.info/accounts",
+                href: "/",
             },
         ],
     },
@@ -2137,15 +2137,15 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
+                href: "/",
             },
             {
                 label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
+                href: "/",
             },
             {
                 label: "Blog",
-                href: "https://goosefinance.medium.com/",
+                href: "/",
             },
         ],
     },
@@ -2154,17 +2154,17 @@ var socials = [
 	{
         label: "Github",
         icon: "IconGithub",
-        href: "https://github.com/MafiaSwap",
+        href: "/",
     },
 	{
         label: "Medium",
         icon: "IconMedium",
-        href: "https://medium.com/MafiaSwap",
+        href: "/",
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/MafiaSwap",
+        href: "/",
     },
 	{
         label: "Telegram",
@@ -2172,7 +2172,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "http://t.me/MafiaSwap",
+                href: "/",
             },			
         ],
     }
