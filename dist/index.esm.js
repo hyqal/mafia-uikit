@@ -2575,13 +2575,6 @@ var UserBlock = function (_a) {
         } }, "Connect"))));
 };
 
-var BuySbear = function (_a) {
-   
-    return (React.createElement(Button, { size: "sm",marginRight:"10px", onClick: function () {
-             window.location.href = "/";
-        } }, "CheeseSwap"));
-};
-
 var Icon$19 = function (props) {
     var theme = useTheme();
     var primaryColor = theme.isDark ? "#3C3742" : "#e9eaeb";
