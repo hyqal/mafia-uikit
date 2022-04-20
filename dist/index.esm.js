@@ -2465,24 +2465,9 @@ var connectors = [
         connectorId: "injected",
     },
     {
-        title: "MathWallet",
-        icon: Icon$14,
-        connectorId: "injected",
-    },
-    {
-        title: "TokenPocket",
-        icon: Icon$15,
-        connectorId: "injected",
-    },
-    {
         title: "WalletConnect",
         icon: Icon$17,
         connectorId: "walletconnect",
-    },
-    {
-        title: "Binance Chain Wallet",
-        icon: Icon$18,
-        connectorId: "bsc",
     },
 ];
 var localStorageKey = "accountStatus";
